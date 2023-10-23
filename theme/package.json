@@ -52,7 +52,7 @@
     "react-addons-text-content": "^0.0.4",
     "react-focus-on": "^3.9.1",
     "react-helmet": "^6.1.0",
-    "styled-components": "^5.3.11",
+    "styled-components": "^6.1.0",
     "styled-system": "^5.1.5"
   },
   "devDependencies": {
